@@ -1,0 +1,11 @@
+Objective:
+
+The main objective of the project was to find feature that can increase risk of heart attack.
+
+
+Findings in analysis:
+    1. Usally higher age(above 45) has high risk rate of heart attack.
+    2. Compare to female male has high risk rate heart of attack.
+    3. It looks like above 170cm of hight & more then 73kg of weight has high rate of heart attack.
+    4. It looks like more cholestrol & more glucose is related to high rate of heart attack.
+    5. It looks like more excercise(hourse/week) is related to high rate of heart attack might be some other reasone.
